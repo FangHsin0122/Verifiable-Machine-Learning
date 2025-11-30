@@ -1,0 +1,10 @@
+run_dir: ./output/fanghsinli/quadrotor2d_output/${now:%Y-%m-%d}/${now:%H-%M-%S}_${user.wandb_suffix}
+
+wandb_enabled: True
+wandb_entity: GB-Northeastern-Projects
+wandb_project: CS-7268-Group-Project
+wandb_suffix: test_v100-sxm2_hard_coded_fanghsinli
+
+load_lyaloss: null
+Vmin_x_pgd_path: null
+derivative_x_buffer_path: null

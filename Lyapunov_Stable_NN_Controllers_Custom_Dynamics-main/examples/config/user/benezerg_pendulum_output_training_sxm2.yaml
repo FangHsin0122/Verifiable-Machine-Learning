@@ -1,0 +1,10 @@
+run_dir: ./output/benezerg/pendulum_output/${now:%Y-%m-%d}/${now:%H-%M-%S}_${user.wandb_suffix}
+
+wandb_enabled: True
+wandb_entity: GB-Northeastern-Projects
+wandb_project: CS-7268-Group-Project
+wandb_suffix: symbolic_output_feedback
+
+load_lyaloss: null
+Vmin_x_pgd_path: null 
+derivative_x_buffer_path: null 
