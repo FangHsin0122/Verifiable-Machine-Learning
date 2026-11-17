@@ -1,5 +1,5 @@
 # Verifiable-Machine-Learning
-Upload some lecture notes, homework and researches
+Verifiable ML coursework: adversarial robustness, LP-based NN verification, reachability of neural feedback loops, and a fork of Lyapunov-stable neural control that adds user-defined dynamics.
 
 ## Map
 
@@ -24,7 +24,7 @@ Course: EECE / CS 7268 Verifiable Machine Learning, Northeastern, Fall 2025. Eac
 
 | Folder | What's in it |
 |---|---|
-| [Course material/](<Course material/README.md>) | Syllabus and course page, lectures L04–L06, forward/backward reachability notes, *Deep Learning* book optimization chapter |
+| [Course material/](<Course material/README.md>) | Syllabus and course page, lectures L03–L06, forward/backward reachability notes, *Deep Learning* book optimization chapter |
 | [Homework/](Homework/README.md) | All versions of HW1–HW3 (blank templates, drafts, our completed and submitted work) |
 | [Models/](Models/README.md) | `mnist1.nnet`, `cartpole_nnet.nnet` (HW2 inputs), LeNet MNIST weights |
 | [Final project/](<Final project/README.md>) | The original *Lyapunov-stable Neural Control* code, our group's fork that adds user-defined dynamics, and our final presentation |
