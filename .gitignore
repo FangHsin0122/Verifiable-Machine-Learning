@@ -1,1 +1,22 @@
 mendeley-reference-manager-*.exe 
+
+# Local-only navigation (includes classmates' info)
+README.local.md
+
+# Classmates' work and class rosters
+Homework/HW1/Rana_*
+Homework/HW2/Rana_*
+Homework/HW2/hw2.ipynb
+Homework/HW3/Rana_*
+Homework/HW3/Utkarsh_*
+Course material/Student Presentations*.xlsx
+Course material/Formal Verification of Neural Networks - 09-*.pdf
+Course material/Backward Reachability - 10-27-25.pdf
+Final project/Initial Schedule for Final Project.xlsx
+
+# AI-assisted drafts
+Homework/HW2/HW2_Gemini.ipynb
+Homework/HW2/HW2_claude.ipynb
+Homework/HW2/hw2_chatGPT.ipynb
+Homework/HW3/Claude3.5 (BackUp)*
+Homework/HW3/chatGPT 5(BackUp)*
